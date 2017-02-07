@@ -13,10 +13,10 @@
 
 body {
   margin: 0;
-  font-family: Open-sans, sans-serif;
+  font-family: 'Barrio', cursive;
 }
 h1, h2, h3 {
-  font-family: Raleway, Helvetica, sans-serif;
+  font-family: 'Barrio', cursive;
 }
 h2 {
   font-size: 28px;
@@ -36,3 +36,16 @@ h2 {
   padding-bottom: 5em;
 }
 
+// Backgrounds
+.bg-text {
+  background: #4a4a4a;
+}
+.bg-email {
+  background: #aeaeae;
+}
+.bg-twitter {
+  background: #00a3e1;
+}
+.bg-facebook {
+  background: #3b5998;
+}
